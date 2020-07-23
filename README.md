@@ -1,6 +1,5 @@
 # <img src="https://media0.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif?cid=ecf05e4744739cd01b6f2f0e802b43115b35e4beb59e4a47&rid=giphy.gif" width="100"> Welcome to the CodingZone <img src="https://media0.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif?cid=ecf05e4744739cd01b6f2f0e802b43115b35e4beb59e4a47&rid=giphy.gif" width="100"> 
 
-<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47kd7tdi0o87a2uo2gfn6btrhcu8sep4jyr5e79omy&rid=giphy.gif" width="100">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/epicgibbon/epicgibbon)
 ![GitHub followers](https://img.shields.io/github/followers/epicgibbon)
