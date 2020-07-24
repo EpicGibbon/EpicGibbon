@@ -3,7 +3,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/epicgibbon/epicgibbon)
 ![GitHub followers](https://img.shields.io/github/followers/epicgibbon)
-[![HitCount](http://hits.dwyl.com/epicgibbon/epicgibbon.svg)](http://hits.dwyl.com/epicgibbon/epicgibbon)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 [![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=EpicGibbon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/EpicGibbon)
