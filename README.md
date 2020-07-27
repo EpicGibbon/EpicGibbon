@@ -1,6 +1,6 @@
 # <img src="https://media0.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif?cid=ecf05e4744739cd01b6f2f0e802b43115b35e4beb59e4a47&rid=giphy.gif" width="100"> Welcome to the CodingZone <img src="https://media0.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif?cid=ecf05e4744739cd01b6f2f0e802b43115b35e4beb59e4a47&rid=giphy.gif" width="100"> 
 
-<img src="http://views.whatilearened.today/views/github/wleondike/views.svg"/>
+<img src="http://views.whatilearened.today/views/github/epicgibbon/views.svg"/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/epicgibbon/epicgibbon)
 ![GitHub followers](https://img.shields.io/github/followers/epicgibbon)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
